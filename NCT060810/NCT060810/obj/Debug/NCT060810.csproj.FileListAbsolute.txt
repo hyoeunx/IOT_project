@@ -1,0 +1,17 @@
+C:\Users\eilee\source\repos\NCT060810\NCT060810\bin\Debug\NCT060810.exe.config
+C:\Users\eilee\source\repos\NCT060810\NCT060810\bin\Debug\NCT060810.exe
+C:\Users\eilee\source\repos\NCT060810\NCT060810\bin\Debug\NCT060810.pdb
+C:\Users\eilee\source\repos\NCT060810\NCT060810\bin\Debug\MetroFramework.dll
+C:\Users\eilee\source\repos\NCT060810\NCT060810\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\eilee\source\repos\NCT060810\NCT060810\obj\Debug\NCT060810.csproj.AssemblyReference.cache
+C:\Users\eilee\source\repos\NCT060810\NCT060810\obj\Debug\NCT060810.Form1.resources
+C:\Users\eilee\source\repos\NCT060810\NCT060810\obj\Debug\NCT060810.Properties.Resources.resources
+C:\Users\eilee\source\repos\NCT060810\NCT060810\obj\Debug\NCT060810.csproj.GenerateResource.cache
+C:\Users\eilee\source\repos\NCT060810\NCT060810\obj\Debug\NCT060810.csproj.CoreCompileInputs.cache
+C:\Users\eilee\source\repos\NCT060810\NCT060810\obj\Debug\NCT060810.csproj.CopyComplete
+C:\Users\eilee\source\repos\NCT060810\NCT060810\obj\Debug\NCT060810.exe
+C:\Users\eilee\source\repos\NCT060810\NCT060810\obj\Debug\NCT060810.pdb
+C:\Users\eilee\source\repos\NCT060810\NCT060810\bin\Debug\M2Mqtt.Net.dll
+C:\Users\eilee\source\repos\NCT060810\NCT060810\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eilee\source\repos\NCT060810\NCT060810\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\eilee\source\repos\NCT060810\NCT060810\bin\Debug\Newtonsoft.Json.xml
